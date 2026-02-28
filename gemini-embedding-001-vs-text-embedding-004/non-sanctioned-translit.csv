@@ -1,0 +1,50 @@
+,,,1,,2,,3,,4,,5,
+,,,score,Full Name,score,Full Name,score,Full Name,score,Full Name,score,Full Name
+1,Aleksei Fridman,text-embedding-004,0.82954395,Mikhail Maratovich FRIDMAN,0.80659854,Aleksei Viktorovich BREDIKHIN,0.7879765,Aleksey KRIVORUCHKO,0.783569,Aleksandr KARAMAN,0.77347744,Aleksei Vadimovich FLOROV
+25,Aleksei Fridman,gemini-embedding-001,0.90876305,Aleksey BUDNEV,0.90538,Aleksei Viktorovich BREDIKHIN,0.902798,ALEKSEY CHIRIKOV,0.9024242,Aleksey KRIVORUCHKO,0.90112555,Alexey BADIKOV
+9,Fridman Mykhail Davydovych,text-embedding-004,0.84305584,Mikhail Maratovich FRIDMAN,0.78143764,Mikhail Efimovich FRADKOV,0.7682982,Vadym Firdavysovych VALIAKHMETOV,0.7638196,Pavel Mikhaylovich FRADKOV,0.7555705,Pavel Mikhaylovich FEDYAEV
+33,Fridman Mykhail Davydovych,gemini-embedding-001,0.9490479,Mikhail Maratovich FRIDMAN,0.90034544,Mikhail HRYB,0.89724076,Mikhail Efimovich FRADKOV,0.89442265,Mikhail Yuryevich AVDEYEV,0.8853961,Mikhail Yuryevich VEDERNIKOV
+13,Oleg Fridman,text-embedding-004,0.8168287,Mikhail Maratovich FRIDMAN,0.7822297,Oleg Mikhailovich SVIRIDENKO,0.76516557,Oleg GOVORUN,0.76415765,Oleg Dmitriyevich DIMOV,0.7574774,Oleg YURCHIK
+37,Oleg Fridman,gemini-embedding-001,0.92327166,Oleg GOVORUN,0.92195725,Oleg YURCHIK,0.92195094,Oleg LOGUNOV,0.9215757,Oleg USACHEV,0.91282594,Oleg Anatolyevich KRINITSYN
+14,Oleh Fridman,text-embedding-004,0.8106912,Mikhail Maratovich FRIDMAN,0.782552,Oleh VOLOSHYN,0.72742605,Oleh Valeriovych MORHUN,0.72124976,Farid Khabibullovich ABDRAKHMANOV,0.71800756,Oleg Mikhailovich SVIRIDENKO
+38,Oleh Fridman,gemini-embedding-001,0.9117666,Oleg YURCHIK,0.9108285,Oleh VOLOSHYN,0.9053997,Oleh Valeriovych MORHUN,0.90334904,Oleg GOVORUN,0.89899397,Oleg USACHEV
+2,Alieks Dzhonson,text-embedding-004,0.8098324,Dzmitry Aliakseevich ALEKSIN,0.7958789,Dmitrii Vladimirovich ALIKHANOV,0.7827976,Aliaksey Ivanavich ALEKSIN,0.7756051,Aleksey Gennadievich DUBONOSOV,0.7718824,ALFALODZHIK
+26,Alieks Dzhonson,gemini-embedding-001,0.8876943,Aliaksey Ivanavich ALEKSIN,0.8873458,Aleksandr Ivanovich ALYOKSA,0.87807274,Alexey Alexandrovich ALEXANDROV,0.87362415,Vital Aliakseevich ALEKSIN,0.87257075,Aleksejs HALAVINS
+3,David Li,text-embedding-004,0.76885116,Yi LI,0.719486,Leonard LAI,0.7169241,Jiangzhou LI,0.71383995,Jiadong LI,0.71343386,Fangwei LI
+27,David Li,gemini-embedding-001,0.89493084,David Eugenio DE LIMA SALAS,0.8891667,David Elias CAMPBELL LICONA,0.8835634,David GUBERMAN,0.880644,David DURAN ALVAREZ,0.88063157,Kwai-wah LI
+4,Devid Li,text-embedding-004,0.7605237,Yi LI,0.7286454,Jiadong LI,0.6983321,LI BAI,0.69772446,Cheng Yu LI,0.695658,Lidia KIM
+28,Devid Li,gemini-embedding-001,0.900131,David Eugenio DE LIMA SALAS,0.8943796,David Elias CAMPBELL LICONA,0.8880801,David GUBERMAN,0.88445544,David DURAN ALVAREZ,0.8822211,David GOMEZ ORTIZ
+5,Devyd Li,text-embedding-004,0.72668964,Yi LI,0.7008158,Zhenyu LI,0.69639385,Jiadong LI,0.68535745,Cheng Yu LI,0.6770549,Fangyue LI
+29,Devyd Li,gemini-embedding-001,0.89911324,Li MYINT,0.88199425,Yi LI,0.8787849,Cheng Yu LI,0.87584233,Zhenyu LI,0.8734745,Zeming LI
+8,Dэvyd Li,text-embedding-004,0.7587935,Yi LI,0.7387375,Jiadong LI,0.70082074,Zhenyu LI,0.69911176,Cheng Yu LI,0.69701517,Fangyue LI
+32,Dэvyd Li,gemini-embedding-001,0.87880236,Li MYINT,0.87879777,Yi LI,0.8750416,Cheng Yu LI,0.87264764,Zhenyu LI,0.86966777,Kwai-wah LI
+6,Dzhon Smit,text-embedding-004,0.7353506,Dzmitry MIKHALTSOU,0.71453965,Dzmitry SHAKUTA,0.6982556,Dmitriy Vladimirovich DZINIKASHVILI,0.6843908,Dmitry Aleksandrovich SVISHCHEV,0.68232787,Dmitry Sergeevich SYTII
+30,Dzhon Smit,gemini-embedding-001,0.8744487,John NUMBI,0.870173,John Francis MORRISSEY,0.86094165,John Yvan MEJIA MAGNANI,0.8589166,John Ka-chiu LEE,0.8581081,John Edward MEADOWS
+7,Dzhon Smyt,text-embedding-004,0.7429776,Dzmitry MIKHALTSOU,0.72472507,Dzmitry SHAKUTA,0.7245843,Dmitry Sergeevich SYTII,0.69496536,SVYATOY KNYAZ VLADIMIR,0.6881318,Dmitry Aleksandrovich SVISHCHEV
+31,Dzhon Smyt,gemini-embedding-001,0.8734218,John NUMBI,0.8726748,John Francis MORRISSEY,0.8632201,John Edward MEADOWS,0.86078596,John Yvan MEJIA MAGNANI,0.8586979,John Ka-chiu LEE
+10,Kuzmichev Volodymyr,text-embedding-004,0.8468606,Alexey Viktorovich KUZMICHEV,0.84145176,Dmytro Volodymyrovych KOVALCHUK,0.8200011,Volodymyr Mykhailovych BOBRYSHEV,0.8097026,Mikhail Vladimirovich KUZMIN,0.806003,Dmitry Vadimovich KUZNETSOV
+34,Kuzmichev Volodymyr,gemini-embedding-001,0.91138756,Volodymyr Mykhailovych BOBRYSHEV,0.9085765,Alexey Viktorovich KUZMICHEV,0.9083651,Vladimir KULEMEKOV,0.9060798,Volodymyr Mykolayovych OLIYNYK,0.901711,Vladimir CHISTYUKHIN
+11,Kuzmichiev Volodymyr,text-embedding-004,0.85643005,Alexey Viktorovich KUZMICHEV,0.83815086,Dmytro Volodymyrovych KOVALCHUK,0.82413864,Volodymyr Mykhailovych BOBRYSHEV,0.8124455,Evgeniy Vladimirovich KUYVASHEV,0.811623,Dmitry Vadimovich KUZNETSOV
+35,Kuzmichiev Volodymyr,gemini-embedding-001,0.90725815,Volodymyr Mykhailovych BOBRYSHEV,0.90472245,Vladimir CHISTYUKHIN,0.90284866,Alexey Viktorovich KUZMICHEV,0.9026216,Volodymyr Mykolayovych OLIYNYK,0.90083647,Vladimir KULEMEKOV
+12,Kuzmychev Volodymyr,text-embedding-004,0.84546816,Volodymyr Mykhailovych BOBRYSHEV,0.84379256,Dmytro Volodymyrovych KOVALCHUK,0.82704663,Alexey Viktorovich KUZMICHEV,0.8034415,Evgeniy Vladimirovich KUYVASHEV,0.8003712,Vladimir Vladimirovich KOLYCHEV
+36,Kuzmychev Volodymyr,gemini-embedding-001,0.91207796,Volodymyr Mykhailovych BOBRYSHEV,0.9118358,Vladimir KULEMEKOV,0.9089828,Volodymyr Mykolayovych OLIYNYK,0.90713406,Vladimir CHISTYUKHIN,0.9063481,Alexey Viktorovich KUZMICHEV
+15,Olena Petrova,text-embedding-004,0.8592759,Olena Oleksandrivna SHAPUROVA,0.8151438,Olga Vasilyevna PILIPENKO,0.8138489,Oleg Vladimirovich PETROV,0.81354487,Olesya Anatolevna MENDELEEVA,0.8017361,Yelena Alekseyevna PERMINOVA
+39,Olena Petrova,gemini-embedding-001,0.9370425,Olena Oleksandrivna SHAPUROVA,0.91408753,Elena APANASENKO,0.9095987,Yelena KHIMINA,0.9082155,Olga G. STEPANOVA,0.9046041,Elena ZHIROVA
+19,Petrova Olena,text-embedding-004,0.84089,Olena Oleksandrivna SHAPUROVA,0.8327857,Oleg Vladimirovich PETROV,0.8100206,Olga Vasilyevna PILIPENKO,0.8013821,Olesya Anatolevna MENDELEEVA,0.7949675,Yelena Alekseyevna PERMINOVA
+43,Petrova Olena,gemini-embedding-001,0.93053037,Olena Oleksandrivna SHAPUROVA,0.9098513,Elena APANASENKO,0.9059223,Yelena KHIMINA,0.9050312,Elena ZHIROVA,0.9045319,Elena Aleksandrovna PERESELYAK
+20,Petrova Yelena,text-embedding-004,0.8855802,Yelena Alekseyevna PERMINOVA,0.84545374,Yelena Aleksandrovna YEVTYUKHOVA,0.8154112,Yury Aleksandrovich PETROV,0.80755407,Vyacheslav Anatolyevich PETROV,0.8039596,Yelena Lvovna CHERNET
+44,Petrova Yelena,gemini-embedding-001,0.9333473,Yelena KHIMINA,0.929675,Yelena STASHINA,0.9286402,Yelena Vladimirovna AFANASEVA,0.92466724,Yelena Aleksandrovna YEVTYUKHOVA,0.9224618,Elena ZHIROVA
+24,Yelena Petrova,text-embedding-004,0.8904099,Yelena Alekseyevna PERMINOVA,0.8531159,Yelena Aleksandrovna YEVTYUKHOVA,0.8106027,Yelena Vladimirovna AFANASEVA,0.81057745,Yelena STASHINA,0.80898964,Yelena Lvovna CHERNET
+48,Yelena Petrova,gemini-embedding-001,0.93082976,Yelena KHIMINA,0.9285358,Yelena STASHINA,0.9169493,Yelena Vladimirovna AFANASEVA,0.91398317,Yelena Aleksandrovna YEVTYUKHOVA,0.91241384,Yelena Gennadyevna ZLENKO
+16,Oliviia Braun,text-embedding-004,0.79281586,OLIVIA,0.7795734,OLIA,0.6728765,Yuliya Vasilyevna OGLOBLINA,0.65897876,Juana OLIVERA JIMENEZ,0.65532094,OTARIA
+40,Oliviia Braun,gemini-embedding-001,0.89652455,OLIVIA,0.89055437,OLIA,0.87735164,OLGA,0.87517756,Olga Sergeyevna ZABRALOVA,0.8744789,ANASTASIIA
+17,Olyvyia Braun,text-embedding-004,0.74120617,Yuliya Vasilyevna OGLOBLINA,0.73241806,Olga Borisovna LYUBIMOVA,0.72729945,OLIVIA,0.72254586,Olga Ivanovna KULYGINA,0.7153516,Olga Vladimironva SYROVATSKAYA
+41,Olyvyia Braun,gemini-embedding-001,0.91138375,OLIVIA,0.88829345,OLIA,0.8807485,OLGA,0.87262374,Olga Borisovna LYUBIMOVA,0.8724293,Olga Vladimironva SYROVATSKAYA
+18,Petro Poroshenko,text-embedding-004,0.7493925,Vyacheslav Anatolyevich PETROV,0.741952,Vladimir Vladimirovich PUTIN,0.7399328,Alexander Petrovich PETROV,0.7380446,Oleg Vladimirovich PETROV,0.72698593,Georgiy Sergeyevich POLTAVCHENKO
+42,Petro Poroshenko,gemini-embedding-001,0.88931704,Petr SAVCHENKO,0.8836576,Oleksandr Viktorovych YANUKOVYCH,0.88071024,Petro Anatoliyovich ZHURAVEL,0.8777894,Viktor Fedorovych YANUKOVYCH,0.87582564,Vitaliy Yuriyovych ZAKHARCHENKO
+21,Poroshenko Petro,text-embedding-004,0.76131064,Vyacheslav Anatolyevich PETROV,0.75679916,Alexander Petrovich PETROV,0.7518441,Oleg Vladimirovich PETROV,0.73551315,Yury Aleksandrovich PETROV,0.7255143,Petro Anatoliyovich ZHURAVEL
+45,Poroshenko Petro,gemini-embedding-001,0.89779645,Petr SAVCHENKO,0.89274704,Petro Anatoliyovich ZHURAVEL,0.8789974,Oleksandr Viktorovych YANUKOVYCH,0.8756795,Oleg Vladimirovich PETROV,0.8755306,Alexander Andreyevich YUSHCHENKO
+22,Poroshenko Petro Oleksiiovych,text-embedding-004,0.7961342,Oleg Vladimirovich PETROV,0.7533605,Vyacheslav Anatolyevich PETROV,0.7518214,Alexander Petrovich PETROV,0.75179064,Oleksandr Sergeyevich KHODAKOVSKYY,0.7507353,Oleksandr ONYSHCHENKO
+46,Poroshenko Petro Oleksiiovych,gemini-embedding-001,0.88924336,Oleksandr Viktorovych YANUKOVYCH,0.88083243,Petro Anatoliyovich ZHURAVEL,0.87973166,Petr SAVCHENKO,0.8773378,Alexander Andreyevich YUSHCHENKO,0.8757175,Viktor Fedorovych YANUKOVYCH
+23,Tomas Anderson,text-embedding-004,0.72237253,Andrejs BRADENS,0.721647,Tom MICHIELSEN,0.7077244,Tomasa GARCIA RIOS,0.68761146,Andrei ANISIMOV,0.67913216,Sven Anders OLSSON
+47,Tomas Anderson,gemini-embedding-001,0.85937953,Andres Martin ELIZONDO CASTANEDA,0.85879636,Tom MICHIELSEN,0.8567902,Thomas Ho Ming TONG,0.85551155,Tom DE GEETERE,0.85134125,Anton THULIN

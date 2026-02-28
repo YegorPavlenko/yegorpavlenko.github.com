@@ -1,0 +1,31 @@
+,,,1,,2,,3,,4,,5,
+,,,score,Full Name,score,Full Name,score,Full Name,score,Full Name,score,Full Name
+1,Alexey Kuzmichev       ,text-embedding-004,0.9480062,Alexey Viktorovich KUZMICHEV,0.86176395,Alexey Aleksandrovich KUPRIYANOV,0.8457199,Aleksandr Yuryevich KUZIN,0.83564025,Alexey Aleksandrovich ZHURAVLYEV,0.83303636,Aleksandr Borisovich KURDIUMOV
+15,Alexey Kuzmichev       ,gemini-embedding-001,0.9717459,Alexey Viktorovich KUZMICHEV,0.9370159,Alexey CHICHENEV,0.9369796,ALEKSEY MARYSHEV,0.9315407,Alexey GOVYRIN,0.93025196,Alexey BADIKOV 
+2,Alireza Kashanimehr    ,text-embedding-004,0.96955675,Alireza KASHANIMEHR,0.87829816,Ali KHORASHADIZADEH,0.85867655,"Alireza Shahvaroghi
+FARAHANI",0.8450509,Alireza ABEDINEJAD,0.8420868,Alireza OSTADAKBARI
+16,Alireza Kashanimehr    ,gemini-embedding-001,0.9872788,Alireza KASHANIMEHR,0.95060104,Alireza RAHNAVARD,0.94894934,Alireza ABEDINEJAD,0.9474049,Alireza FADAKAR,0.94489217,Alireza AMIN
+3,Behnam Shahriyari      ,text-embedding-004,0.96423256,Behnam SHAHRIYARI,0.82286453,Bahram Ali SHAYESTEH,0.804304,Hamidreza SHARIFI-TEHRANI,0.80362153,Shahram POURSAFI,0.7887859,BEHNAM SHAHRIYARI TRADING COMPANY
+17,Behnam Shahriyari      ,gemini-embedding-001,0.9924974,Behnam SHAHRIYARI,0.9229635,BEHNAM SHAHRIYARI TRADING COMPANY,0.9149554,BEHNAVAZ,0.9109025,Bahman REYHANI,0.9099214,Behzad MOHAMMADI
+4,Esmail Ghani           ,text-embedding-004,0.9441693,Esmail GHANI,0.79897314,Ehsan MOHAMMADI,0.79227173,Esmail HAMIDI,0.7894791,Esmail KHATIB,0.78600836,Reza-Gholi ESMAELI
+18,Esmail Ghani           ,gemini-embedding-001,0.98846245,Esmail GHANI,0.9312862,Esma'il AZIZKHANI,0.92593086,Esmail HAMIDI,0.91351736,Esmail KHATIB,0.91220963,Esma'il RAZAVI
+5,Ivan Abramov           ,text-embedding-004,0.9030838,Ivan Nikolayevich ABRAMOV,0.8339798,IVAN AIVAZOVSKY,0.81767535,Ivan OKOROKOV,0.8025837,Ivan Uladzimiravich KUBRAKOU,0.8021105,Valeri Vyacheslavovich ABRAMOV
+19,Ivan Abramov           ,gemini-embedding-001,0.9706334,Ivan Nikolayevich ABRAMOV,0.9382167,Ivan OKOROKOV,0.9245023,Ivan Kirov GENOV,0.92262363,IVAN KIREEV,0.91894627,IVAN SIDORENKO
+6,Konstantin Denisov     ,text-embedding-004,0.94902885,Konstantin Ivanovich DENISOV,0.8264126,Denis MAIDANOV,0.81716156,Denis Olegovich DEGTYARENKO,0.8150221,Konstantin KUDRYAVTSEV,0.81326485,Vladimir Andreyevich KONSTANTINOV
+20,Konstantin Denisov     ,gemini-embedding-001,0.9664426,Konstantin Ivanovich DENISOV,0.92674994,Konstantin KUDRYAVTSEV,0.9195412,Konstantin Iosifovich KOSACHEV,0.91574985,Konstantin KULYK,0.9112475,Konstantin Albertovich FEDORENKO
+7,Maria Hernandez        ,text-embedding-004,0.79816025,Maria Helena RUIZ CASTANO,0.7912806,MARIA,0.7862953,Maria Alejandrina SALAZAR HERNANDEZ,0.7825133,Maria Elda HERNANDEZ PULIDO,0.761621,MARIANA
+21,Maria Hernandez        ,gemini-embedding-001,0.93381083,MARIA,0.9277003,MARIA E,0.9263096,Maria Elda HERNANDEZ PULIDO,0.9202111,Maria Alejandrina SALAZAR HERNANDEZ,0.89926946,Maria de Jesus ESPINOZA RODRIGUEZ
+8,Mikhail Fridman        ,text-embedding-004,0.9351982,Mikhail Maratovich FRIDMAN,0.83454037,Mikhail Efimovich FRADKOV,0.7897811,MIKHAIL BRITNEV,0.7686074,Petr Mikhailovich FRADKOV,0.7581756,Farid Khabibullovich ABDRAKHMANOV
+22,Mikhail Fridman        ,gemini-embedding-001,0.9751751,Mikhail Maratovich FRIDMAN,0.8936656,Mikhail Efimovich FRADKOV,0.88215405,MIKHAIL BRITNEV,0.8764019,Viktor Feliksovich VEKSELBERG,0.8732588,Mikhail Valentinovich ROMANOV
+9,Mohammad Sadegh Karimian,text-embedding-004,0.97108346,Mohammad Sadegh KARIMIAN,0.84657526,Mohammad KARAMI,0.81621456,Sadegh Amoli LARIJANI,0.81451076,Maziar KARIMI,0.80965763,Mohammad Reza KHADEMI
+23,Mohammad Sadegh Karimian,gemini-embedding-001,0.99390924,Mohammad Sadegh KARIMIAN,0.9409154,Mohammad KARAMI,0.9370086,Mohammad Sadegh ABUTALEBI,0.93469006,Mohammad Sadegh FATEHI,0.93386424,Mohammad Hasan SADEGHI MOGHADAM
+10,Petr Aven              ,text-embedding-004,0.87673795,Petr Olegovich AVEN,0.7997607,Petr SAVCHENKO,0.7558244,Petr Revoldovich AMMOSOV,0.7318163,Petr KOLBIN,0.71405375,Vyacheslav Anatolyevich PETROV
+24,Petr Aven              ,gemini-embedding-001,0.9668462,Petr Olegovich AVEN,0.9256148,Petr SAVCHENKO,0.916856,Petr KOLBIN,0.9094166,Petr Petrovich MIKLASHEVICH,0.89337504,Petr Revoldovich AMMOSOV
+11,ROLDUGIN Sergei        ,text-embedding-004,0.95564204,Sergei Pavlovich ROLDUGIN,0.80791295,Sergey Vladimirovich KOLUNOV,0.8069736,Sergey Nikolayevich RYABUKHIN,0.8047334,Sergei Anatolyevich KOGOGIN,0.8011365,Sergey Genrikhovich KARGINOV
+25,ROLDUGIN Sergei        ,gemini-embedding-001,0.9768406,Sergei Pavlovich ROLDUGIN,0.91671765,Sergey LOGUNTSOV,0.9057883,Sergei Anatolyevich KOGOGIN,0.90387636,Sergey SKVORTSOV,0.9037698,Sergei AFANASYEV
+12,Roldugin Sergej        ,text-embedding-004,0.92054856,Sergei Pavlovich ROLDUGIN,0.79997885,Sergey Nikolayevich RYABUKHIN,0.7935827,Sergei Anatolyevich KOGOGIN,0.7870752,Andrei Nikolaevich RODKIN,0.7844247,Sergey Genrikhovich KARGINOV
+26,Roldugin Sergej        ,gemini-embedding-001,0.94731736,Sergei Pavlovich ROLDUGIN,0.8923104,Sergey LOGUNTSOV,0.885231,Sergey Anatolevich SERDYUKOV,0.8847069,Sergey Yuryevich TEN,0.88347214,Sergey SKVORTSOV
+13,ROLDUGIN Sergey        ,text-embedding-004,0.9400078,Sergei Pavlovich ROLDUGIN,0.81257856,Sergey Nikolayevich RYABUKHIN,0.801738,Sergey Vladimirovich KOLUNOV,0.7963138,Sergey Genrikhovich KARGINOV,0.79505455,Sergey Anatolevich SERDYUKOV
+27,ROLDUGIN Sergey        ,gemini-embedding-001,0.97438073,Sergei Pavlovich ROLDUGIN,0.92660713,Sergey LOGUNTSOV,0.91326165,Sergey SKVORTSOV,0.91160655,Sergey Anatolevich SERDYUKOV,0.9069439,Sergey Eduardovich GORDEEV
+14,Vladimir Kiriyenko     ,text-embedding-004,0.8989833,Vladimir Sergeevich KIRIYENKO,0.8422133,Sergei Vladilenovich KIRIYENKO,0.8339385,Victor Nikolayevich KIRYANOV,0.82965904,Vladimir KRYLOV,0.8174397,Viktor Borisovich KIDYAEV
+28,Vladimir Kiriyenko     ,gemini-embedding-001,0.98071736,Vladimir Sergeevich KIRIYENKO,0.9389511,Sergei Vladilenovich KIRIYENKO,0.92507553,Vladimir KONONOV,0.9229339,Vladimir KRYLOV,0.91846824,Vladimir Ilich MAKSIMENKO
